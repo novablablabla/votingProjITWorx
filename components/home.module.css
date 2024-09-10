@@ -1,0 +1,12 @@
+.hero {
+    width:max-content; 
+    text-align: center;
+}
+.h1 {
+    font-size: 30px; 
+    font-weight: 700;
+}
+
+.inputstuff {
+    max-width: 50%;
+}

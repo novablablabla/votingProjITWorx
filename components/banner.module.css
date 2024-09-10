@@ -1,0 +1,17 @@
+.iconcol {
+    max-width: fit-content;
+    min-width: 165px; 
+    min-block-size: 165px 56px; 
+    margin-right: auto;
+    padding-top: 7%;
+}
+
+/* .navbarstyle {
+
+} */
+
+.navbtnstyle {
+    margin-top: 0.6rem; 
+    max-width: fit-content; 
+    min-width:fit-content;
+}
